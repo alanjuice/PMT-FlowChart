@@ -4,8 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fPMBoyiFBakDq6IAuXCd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2JgC6VQYmHtrKgjQ-FM3-1" target="fPMBoyiFBakDq6IAuXCd-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2JgC6VQYmHtrKgjQ-FM3-1" value="Project Management&lt;div&gt;Tool&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fPMBoyiFBakDq6IAuXCd-2" value="ss" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
